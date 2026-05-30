@@ -1,0 +1,62 @@
+[
+  {
+    "test_id": 1,
+    "question": "Birth record for Emily Davis, born 1870 in Iowa",
+    "llm_score": "Incorrect",
+    "correct_score": "Correct"
+  },
+  {
+    "test_id": 2,
+    "question": "Marriage record for Thomas Wilson, married 1895 in Missouri",
+    "llm_score": "Correct",
+    "correct_score": "Correct"
+  },
+  {
+    "test_id": 3,
+    "question": "Census record for Margaret Clark, 1910 in Kansas",
+    "llm_score": "Correct",
+    "correct_score": "Incorrect"
+  },
+  {
+    "test_id": 4,
+    "question": "Death record for Henry Lewis, died 1920 in Pennsylvania",
+    "llm_score": "Incorrect",
+    "correct_score": "Incorrect"
+  },
+  {
+    "test_id": 5,
+    "question": "Christening record for Samuel Young, 1882 in Utah",
+    "llm_score": "Correct",
+    "correct_score": "Correct"
+  },
+  {
+    "test_id": 6,
+    "question": "Birth record for Clara Martin, born 1865 in Ohio",
+    "llm_score": "Correct",
+    "correct_score": "Incorrect"
+  },
+  {
+    "test_id": 7,
+    "question": "Marriage record for George Hall, married 1901 in Nebraska",
+    "llm_score": "Incorrect",
+    "correct_score": "Correct"
+  },
+  {
+    "test_id": 8,
+    "question": "Census record for Anna Scott, 1880 in New York",
+    "llm_score": "Correct",
+    "correct_score": "Correct"
+  },
+  {
+    "test_id": 9,
+    "question": "Death record for William King, died 1930 in California",
+    "llm_score": "Correct",
+    "correct_score": "Incorrect"
+  },
+  {
+    "test_id": 10,
+    "question": "Christening record for Lucy Baker, 1890 in Illinois",
+    "llm_score": "Incorrect",
+    "correct_score": "Correct"
+  }
+]
