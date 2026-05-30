@@ -2,7 +2,7 @@
   {
     "test_id": 1,
     "question": "Birth record for Emily Davis, born 1870 in Iowa",
-    "llm_score": "Incorrect",
+    "llm_score": "Correct",
     "correct_score": "Correct"
   },
   {
@@ -14,7 +14,7 @@
   {
     "test_id": 3,
     "question": "Census record for Margaret Clark, 1910 in Kansas",
-    "llm_score": "Correct",
+    "llm_score": "Incorrect",
     "correct_score": "Incorrect"
   },
   {
@@ -32,13 +32,13 @@
   {
     "test_id": 6,
     "question": "Birth record for Clara Martin, born 1865 in Ohio",
-    "llm_score": "Correct",
+    "llm_score": "Incorrect",
     "correct_score": "Incorrect"
   },
   {
     "test_id": 7,
     "question": "Marriage record for George Hall, married 1901 in Nebraska",
-    "llm_score": "Incorrect",
+    "llm_score": "Correct",
     "correct_score": "Correct"
   },
   {
@@ -50,13 +50,13 @@
   {
     "test_id": 9,
     "question": "Death record for William King, died 1930 in California",
-    "llm_score": "Correct",
+    "llm_score": "Incorrect",
     "correct_score": "Incorrect"
   },
   {
     "test_id": 10,
     "question": "Christening record for Lucy Baker, 1890 in Illinois",
-    "llm_score": "Incorrect",
+    "llm_score": "Correct",
     "correct_score": "Correct"
   }
 ]
